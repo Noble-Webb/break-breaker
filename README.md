@@ -1,8 +1,8 @@
 # break-breaker
 Adding an old game to my repos for maintenance 
 
-Used pygame to construct a funtional Brick Breaker. 
-The sound files were pulled from an external source and edited to fit the gameplay. 
+BrickBreaker Game
+A Python version of the classic arcade Breakout, where you control a paddle and hit a ball against a pattern of blocks in order to destroy all of the bricks. 
 
 It's got that great retro image play and sound that really takes you back to a better time!
 
